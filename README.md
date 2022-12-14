@@ -52,7 +52,7 @@ After good results during bot image and text classifications we tested our model
     <ul>
     <li>R&D engineer at Instigate Semiconductor</li>
     <li>Student from YSU (Information and Applied Matematics)</li>
-    <li>E-mail:   nune.tadevosyan.011@gmail.com</li>
+    <li>E-mail:   tadevosyannune9.com</li>
     <li>LinkedIn: <a href="https://www.linkedin.com/in/nune-tadevosyan-9806a8207/">Nune Tadevosyan</a></li>
     <li>GitHub:   <a href="https://github.com/NuneTadevosyan">Nune Tadevosyan</a></li>
     </ul>
