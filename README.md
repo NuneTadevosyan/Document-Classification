@@ -39,14 +39,6 @@ If our image classifiction predict `others`, so image would go to second part of
 After good results during bot image and text classifications we tested our model in all documents with 13 labels. We chose 1000 random images from each 13 label, and testing our model. Accuracy was 88.7%, and it's great for this dataset. This chart shows ***confution matrix*** for testing dataset\
 ![all_data](https://user-images.githubusercontent.com/58246780/163481340-49f198bc-b766-4aa8-b269-f3ee917dac9f.png)
 
-<h4 align="left">Artur Avagyan</h4>
-    <ul>
-    <li>Responsible Actuary in Armenia Insurance</li>
-    <li>Student from YSU (Data Science for Business Master's Degree Program)</li>
-    <li>E-mail:   avagyan.artur97@gmail.com</li>
-    <li>LinkedIn: <a href="https://www.linkedin.com/in/artur-avagyan-0a16311b3">Artur Avagyan</a></li>
-    <li>GitHub:   <a href="https://github.com/artur-avagyan">Artur Avagyan</a></li>
-    </ul>
 
 <h4 align="left">Nune Tadevosyan</h4>
     <ul>
@@ -55,6 +47,15 @@ After good results during bot image and text classifications we tested our model
     <li>E-mail:   tadevosyannune9@gmail.com</li>
     <li>LinkedIn: <a href="https://www.linkedin.com/in/nune-tadevosyan-9806a8207/">Nune Tadevosyan</a></li>
     <li>GitHub:   <a href="https://github.com/NuneTadevosyan">Nune Tadevosyan</a></li>
+    </ul>
+
+<h4 align="left">Artur Avagyan</h4>
+    <ul>
+    <li>Responsible Actuary in Armenia Insurance</li>
+    <li>Student from YSU (Data Science for Business Master's Degree Program)</li>
+    <li>E-mail:   avagyan.artur97@gmail.com</li>
+    <li>LinkedIn: <a href="https://www.linkedin.com/in/artur-avagyan-0a16311b3">Artur Avagyan</a></li>
+    <li>GitHub:   <a href="https://github.com/artur-avagyan">Artur Avagyan</a></li>
     </ul>
 
 <h4 align="left">Supervised by Arsen Yeghiazaryan</h4>
